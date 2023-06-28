@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FashionBazaar/static/css/main.c21cfefe.css",
+    "main.js": "/FashionBazaar/static/js/main.cd276286.js",
+    "index.html": "/FashionBazaar/index.html",
+    "main.c21cfefe.css.map": "/FashionBazaar/static/css/main.c21cfefe.css.map",
+    "main.cd276286.js.map": "/FashionBazaar/static/js/main.cd276286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c21cfefe.css",
+    "static/js/main.cd276286.js"
+  ]
+}
